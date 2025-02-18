@@ -1,0 +1,43 @@
+/* Full-page wrapper */
+.home-wrapper {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Hero Section */
+  .hero-section {
+    background: url("https://www.rawforestfoods.com/product_images/uploaded_images/oranges-and-testosterone.jpeg") no-repeat center center/cover;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  }
+  
+  .hero-content {
+    text-align: center;
+  }
+  
+  .hero-btn {
+    margin-top: 10px;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 8px;
+  }
+  
+  /* Features Section */
+  .features-section {
+    margin-top: 50px;
+  }
+  
+  .feature-card {
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .feature-card .btn {
+    margin-top: 10px;
+  }
+  
